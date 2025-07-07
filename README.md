@@ -1,1 +1,1 @@
-# trabajo_ComputerVision_ULPG
+# trabajo_ComputerVision_ULPGC
