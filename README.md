@@ -1,4 +1,4 @@
-# trabajo_ComputerVision_ULPG
+# trabajo_ComputerVision_ULPGC
 
 This repository contains the work done for the Computer Vision course at ULPGC. It includes various projects and assignments related to computer vision topics. The code is primarily written in Python and utilizes libraries such as OpenCV, NumPy, and Matplotlib.
 
